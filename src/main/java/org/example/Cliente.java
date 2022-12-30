@@ -4,6 +4,7 @@ public class Cliente {
     private String nif;
 
     private String nombre;
+    private String numCuenta;
 
     public Cliente(String nif, String nombre) {
         this.nif = nif;
